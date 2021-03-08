@@ -1,0 +1,7 @@
+.git/
+.settings/
+.metadata/
+target/
+.classpath
+.project
+.tern-project
